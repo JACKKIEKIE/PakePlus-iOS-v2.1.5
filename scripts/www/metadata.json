@@ -1,0 +1,5 @@
+{
+  "name": "西门子 AI 数控编程助手",
+  "description": "基于 AI 的 CAM 助手，将自然语言和技术图纸转换为西门子 Sinumerik G 代码并进行路径仿真。",
+  "requestFramePermissions": []
+}
